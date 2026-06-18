@@ -107,7 +107,7 @@ Insight: Products vary much more than stores. Cluster 5 drives volume, Cluster 2
 
 bash
 
-git clone https://github.com/anu-006/Retail-Store-Product-Clustering.git
+git clone https://github.com/anu-006/Retail_Store_and_Product_Clustering.git
 
 pip install -r requirements.txt
 
